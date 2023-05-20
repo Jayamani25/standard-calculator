@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 
 Publish the website in the given URL.
 
-## PROGRAM :
+### PROGRAM :
 
 ```Html
 <!DOCTYPE html>
@@ -99,8 +99,13 @@ Publish the website in the given URL.
 </html>
 ```
 
-## OUTPUT:
+### OUTPUT:
+### HTML VALIDATOR:
+![OPvalid](https://github.com/Jayamani25/standard-calculator/assets/85949888/70257c7d-6ecd-40d8-b6bb-f7eeab9e1c6e)
 
+### CLIENT OUTPUT:
+![op](https://github.com/Jayamani25/standard-calculator/assets/85949888/ddfc17b1-5c98-4507-8879-15b6b1967785)
 
-## Result:
+### RESULT:
+A web application for a standard calculator has been designed successfully.
 
